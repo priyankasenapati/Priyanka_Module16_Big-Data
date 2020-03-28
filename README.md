@@ -29,8 +29,7 @@ Using SQL on PgAdmin, used various queries to generate tables and counts of all 
 # ** CONCLUSION **
    * The average review rating is 3 Stars. 
    
-   The vine_table contains only Non-Vine review ratings. Since these reviews are 
-   Non-Vine reviews there isn't any way to know how trustworthy they are from this data.
+   * The vine_table contains only Non-Vine review ratings. Since these reviews are  Non-Vine reviews there isn't any way to      know how trustworthy they are from this data.
  
 
-
+* NOTE : Please look at the ETL_Chalenge.sql file for the sql command outputs for average review rating and of vine and Non-Vine reviews count .
